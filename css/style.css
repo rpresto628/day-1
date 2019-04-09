@@ -1,0 +1,19 @@
+/*Assignment styles*/
+h1 {
+	color:purple;
+    font-family:calibri;
+}
+/*End Assignment styles*/
+.list-item {
+	font-size:24px;
+    padding:10px;
+    text-align:center;
+    border:1px dotted;
+    margin:10px;
+    background-color:yellow;
+}
+img {
+    width:300px;
+    height:300px;
+
+}
